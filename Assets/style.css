@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.table-kendaraan{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    text-align: center;
+}
+.header-table{
+    background-color: #05595B;
+    color: white;
+}
+
+.data-table a{
+    text-decoration: none;
+}
+.judul{
+    margin-top: 100px;
+    text-align: center;
+}

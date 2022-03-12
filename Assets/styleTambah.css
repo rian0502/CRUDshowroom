@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.from-tambah{
+    background-color: #9A0680;
+    width: 500px;
+    margin: 60px auto 0 auto;
+    padding: 40px;
+}
+
+label{
+    color: white;
+}
+form [type="text"]{
+    width: 400px;
+    height: 20px;
+    border: none;
+    outline: none;
+    margin: 10px 0 40px 0;
+    border-bottom: 1px solid white;
+    padding: 10px;
+    background-color: transparent;
+    color: white;
+}
+form [type="text"]::placeholder{
+    color: white;
+}
+body{
+    background-color: #533E85;
+}
+h3{
+    text-align: center;
+    color: white;
+    margin: 0 0 60px 0;
+    font-size: 40px;
+}
+form [type="submit"]{
+    width: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px 0 0px 0;
+}
